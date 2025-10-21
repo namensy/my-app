@@ -5,7 +5,7 @@ import LogoutButton from "./LogoutButton";
 interface Props {}
 
 const Navbar: NextPage<Props> = ({}) => {
-  const session = true;
+  const session = false;
 
   return (
     <nav className="bg-white shadow-sm">

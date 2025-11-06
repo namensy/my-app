@@ -1,4 +1,4 @@
-import Hello from "./components/Hello";
+import Hello from "../../components/Hello";
 
 const page = () => {
   console.log("Hello from Next.JS");
